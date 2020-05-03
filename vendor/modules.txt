@@ -1,0 +1,14 @@
+# github.com/go-chi/chi v4.1.1+incompatible
+## explicit
+github.com/go-chi/chi
+github.com/go-chi/chi/middleware
+# github.com/google/uuid v1.1.1
+## explicit
+# github.com/gorilla/websocket v1.4.2
+## explicit
+github.com/gorilla/websocket
+# golang.org/x/net v0.0.0-20200501053045-e0ff5e5a1de5
+## explicit
+# gopkg.in/olahol/melody.v1 v1.0.0-20170518105555-d52139073376
+## explicit
+gopkg.in/olahol/melody.v1
